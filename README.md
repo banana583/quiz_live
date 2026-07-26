@@ -5,6 +5,7 @@
 Проект реализован в виде npm workspaces-монорепозитория и состоит из клиентского приложения, REST API, Socket.IO-сервера и базы данных PostgreSQL.
 
 Ссылка на макеты https://www.figma.com/design/G4YbIA2M1GvMFq8TQhPPnw/Quiz-Live?node-id=0-1&t=Po16KKT9lpXXUMVz-1
+
 Ссылка на репозиторий https://github.com/banana583/quiz_live
 
 ## Возможности
